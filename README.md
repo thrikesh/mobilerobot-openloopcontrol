@@ -61,8 +61,8 @@ if __name__ == '__main__':
 
 ![robo](./img/robomaster.png)
 
-<br>![output](./exa(p).png)
-<br>![output](./exb(p).png)
+<br>![output](./exa.png)
+<br>![output](./exb.png)
 <br/>
 <br/>
 <br/>
