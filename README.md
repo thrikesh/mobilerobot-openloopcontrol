@@ -80,9 +80,8 @@ if __name__ == '__main__':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
-![image1](output1.png)
-![image2](output2.png)
+<br>![output](./exa.png)
+<br>![output](./exb.png)
 
 
 <br/>
