@@ -7,6 +7,8 @@ To develop a python control code to move the mobilerobot along the predefined pa
 1. RoboMaster EP core
 2. Python 3.7
 
+
+
 ## Procedure
 
 Step1:
@@ -80,7 +82,6 @@ if __name__ == '__main__':
 
 ![robo](./img/robomaster.png)
 
-<br>![output](./exa.png)
 <br>![output](./exb.png)
 
 
