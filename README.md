@@ -80,6 +80,11 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Image:
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 ![robo](./img/robomaster.png)
 
 <br>![output](./exb.png)
@@ -92,7 +97,6 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
 
 [![IMAGE ALT TEXT HERE] (https://www.youtube.com/watch?v=iK5Uy4LFIFI)]
 
