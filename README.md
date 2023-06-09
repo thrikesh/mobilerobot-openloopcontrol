@@ -77,13 +77,19 @@ if __name__ == '__main__':
     ep_camera.stop_video_stream()
     print("Stopped video streaming...")
 ```
+<br/>
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ## MobileRobot Movement Image:
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 ![robo](./img/robomaster.png)
 
